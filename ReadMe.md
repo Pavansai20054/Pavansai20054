@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RANGDAP PAVANSAI</h1>
+<h1 align="center">Hi 👋, I'm RANGDAL PAVANSAI</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 - 🔭 I’m currently Studying in **KG REDDY COLLEGE OF ENGINEERING AND TECHNOLOGY**
