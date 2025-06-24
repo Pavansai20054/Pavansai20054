@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Power BI, Flask**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rangdal-pavansai-a62183291/](https://www.linkedin.com/in/rangdal-pavansai/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rangdal-pavansai/](https://www.linkedin.com/in/rangdal-pavansai/)
 
 - 💬 Ask me about **Good Learner, Problem Solver**
 
