@@ -31,13 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavansai20054&theme=radical&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavansai20054&theme=radical&layout=compact)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pavansai20054&theme=radical)
-
----
-
 ## 🏅 Featured Projects
 | **Project** | **Tech** | **Links** |
 | --- | --- | --- |
@@ -54,11 +47,18 @@
 
 ---
 
-## 🎖️ Certifications
-- **Data Analyst Intern** – InnoByte Services
-- **Certificate of Achievement** – HITAM (IUCEE)
-- **Certificate of Completion** – IUCEE Foundation
-- **Prodigal AI Internship** – **Gold** 🏆
+## 📊 Live GitHub Metrics
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavansai20054&theme=radical&show_icons=true&count_private=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavansai20054&theme=radical&layout=compact)
+
+<!-- GitHub Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pavansai20054&theme=radical)
+
+<!-- 🔥 Live Streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pavansai20054&theme=radical)
 
 ---
 
