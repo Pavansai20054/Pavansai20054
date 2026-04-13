@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Quick Links
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-rangdal--pavansai.vercel.app-00C4FF?style=flat)](https://rangdal-pavansai.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-rangdal--pavansai.netlify.app-00C4FF?style=flat)](https://rangdal-pavansai.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=flat)](https://www.linkedin.com/in/rangdal-pavansai)
 [![Email](https://img.shields.io/badge/📧_Email-pavansairangdal@gmail.com-red?style=flat)](mailto:pavansairangdal@gmail.com)
 
