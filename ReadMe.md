@@ -140,6 +140,7 @@ class PavansaiRangdal:
 | 🏅 | **IEEE ICFACT-2026** — AI-Enhanced Emoji Steganography (LLM + AES-256 + RAG) |
 | 📄 | **AIP Conference Proceedings 2025** — Real-time Object Detection using MobileNet SSD |
 | 📦 | **2 PyPI Packages Published** — DataStruct-Kit (DSA) & logictools (utilities) |
+| 🐧 | **NDG Linux Unhatched** — Cisco Networking Academy (May 2026) |
 | 🥉 | **Code Combat 3rd Place** — InnoFesta HITAM 2024 |
 | ⚡ | **AI Hack Day** — IIIT Hyderabad 2025 |
 | 🚀 | **SparkCamp Hackathon** — VISWAM.AI April 2025 |
