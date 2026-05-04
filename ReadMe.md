@@ -43,7 +43,7 @@ class PavansaiRangdal:
         return [
             "🐍 Python Backend — FastAPI, Django, Flask",
             "🤖 Multi-Agent LLM Systems — LangChain, MCP",
-            "⚙️  MLOps Pipelines — Airflow, MLflow, Docker",
+            "⚙️ MLOps Pipelines — Airflow, MLflow, Docker",
             "🔬 AI Research & Publications",
         ]
 
