@@ -137,7 +137,7 @@ class PavansaiRangdal:
 
 | 🥇 | Achievement |
 |:--:|:-----------|
-| 🏅 | **IEEE ICFACT-2026** — AI-Enhanced Emoji Steganography (LLM + AES-256 + RAG) |
+| 🏅 | **IEEE ICFACT-2026** — AI-Enhanced Emoji Steganography (LLM + AES-256 + RAG + Multi Agent) |
 | 📄 | **AIP Conference Proceedings 2025** — Real-time Object Detection using MobileNet SSD |
 | 📦 | **2 PyPI Packages Published** — DataStruct-Kit (DSA) & logictools (utilities) |
 | 🐧 | **NDG Linux Unhatched** — Cisco Networking Academy (May 2026) |
